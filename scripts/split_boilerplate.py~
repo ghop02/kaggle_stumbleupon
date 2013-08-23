@@ -1,0 +1,6 @@
+import json
+
+
+f = open('../Data/boilerplate.json', 'r')
+
+
